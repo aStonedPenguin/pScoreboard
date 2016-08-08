@@ -1,0 +1,1 @@
+A really shitty scoreboard, uploaded to git because someone wanted it.
